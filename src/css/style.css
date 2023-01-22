@@ -122,6 +122,11 @@ body{
     text-align: center;
     cursor: pointer;
     border-radius: 10px;
+    transition: 0.2s;
+}
+
+.fechar-modal:hover{
+    width: 50px;
 }
 
 .modal iframe{

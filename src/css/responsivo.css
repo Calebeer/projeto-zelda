@@ -59,9 +59,18 @@
     }
 }
 
+@media (max-width: 680px){
+
+    .modal #video{
+        width: 430px;
+        height: 250px;
+    }
+}
+
 @media (max-width:376px){
     .modal #video{
         width: 250px;
         height: 140px;
     }
 }
+
