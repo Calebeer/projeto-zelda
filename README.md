@@ -1,1 +1,5 @@
-# projeto-zelda
+PROJETO ZELDA, É BASICAMENTE UMA PEQUENA DEMOSNTRAÇAO DO JOGO, FEITO EM HTML, CSS E JS. NELE É FALADO UM POUCODA HISTÓRIA E VOCÊ PODE VER O TRAILER TAMBÉM, ESSE TRAILER É DO JOGO QUE VAI LANÇAR DA NITENDO.
+
+<img width="1429" alt="Captura de Tela 2023-09-06 às 11 17 32" src="https://github.com/Calebeer/projeto-zelda/assets/116415563/d6d1b2eb-2d7e-4c3a-8713-817aa5e9885e">
+
+LINK:https://zelda-dusky.vercel.app/
